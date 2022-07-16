@@ -5,7 +5,7 @@ Created on Sat Jul 16 00:36:18 2022
 @author: Suhanichhabra
 """
 
-import pickle5
+import pickle
 import streamlit as st
 import pandas as pd
 import numpy as np
